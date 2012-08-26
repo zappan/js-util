@@ -1,0 +1,28 @@
+{
+  "name": "js-util",
+  "description": "A collection of JavaScript utilities and built-in types extensions",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zappan/js-util/",
+  "keywords": ["javascript", "util"],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zappan/js-util/blob/master/LICENSE.txt"
+    }
+  ],
+  "author": {
+    "name": "Tomislav Capan",
+    "email": "zappan@kset.org",
+    "web": "http://theothersideofcode.com"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/zappan/js-util.git"
+  },
+  "github": "https://github.com/zappan/js-util/",
+  "devDependencies": {
+      "grunt": "*"
+    , "grunt-contrib": "*"
+  },
+  "main": "lib/js-util.min"
+}
