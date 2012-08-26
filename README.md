@@ -9,3 +9,4 @@ A collection of JavaScript utilities and built-in types extensions
 
 | Extension   | Description                                                   |
 |-------------|---------------------------------------------------------------|
+| `Object.exists()` | `static` Checks that the object instance is not undefined and not null |
